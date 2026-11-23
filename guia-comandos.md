@@ -38,3 +38,6 @@ git merge <branch>
 ## 6. Atalhos Úteis
 - git log --graph --oneline para visualizar histórico em árvore.
 - git stash para salvar alterações temporárias.
+
+## 7. Perguntas Frequentes (FAQ)
+- **Como desfazer o ultimo commit mantendo alteracoes?** git reset --soft HEAD~1
