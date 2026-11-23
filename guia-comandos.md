@@ -34,3 +34,7 @@ git merge <branch>
 - Use mensagens descritivas seguindo Conventional Commits (`feat`, `fix`, `docs`, `refactor`).
 - FaÃ§a commits atÃ´micos com escopos bem definidos.
 - Utilize trailers como `Co-authored-by:` para colaboraÃ§Ã£o em equipe.
+
+## 6. Atalhos Úteis
+- git log --graph --oneline para visualizar histórico em árvore.
+- git stash para salvar alterações temporárias.
