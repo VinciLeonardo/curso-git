@@ -41,3 +41,7 @@ git merge <branch>
 
 ## 7. Perguntas Frequentes (FAQ)
 - **Como desfazer o ultimo commit mantendo alteracoes?** git reset --soft HEAD~1
+
+## 8. Aliases Recomendados
+- git config --global alias.s status
+- git config --global alias.cm commit
